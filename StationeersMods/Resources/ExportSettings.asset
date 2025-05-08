@@ -12,21 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 1200417347, guid: bf4f8e9d381df7748a18799ffddf5ad5, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  _author: ilo
-  _description: test
-  _name: StationeersModdingHelpersTest
-  _outputDirectory: F:/Unity/StationeersModdingHelpers/Build~
+  _author: 
+  _description: 
+  _name: 
+  _outputDirectory: 
   _stationeersDirectory: 
   _stationeersArguments: 
-  _version: 1.0
+  _version: 
   _assemblies:
-  - Assets/Scripts/StationeersModdingHelpers.asmdef
   _artifacts:
-  - Assets
   _contentTypes: -1
   _includePdbs: 0
   _waitForDebugger: 0
   _bootType: 0
   _startupPrefab: {fileID: 0}
-  _startupClass: StationeersModdingHelpers
+  _startupClass: 
   _startupScene: 
