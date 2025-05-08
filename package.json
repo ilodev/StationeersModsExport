@@ -1,0 +1,14 @@
+{
+  "name": "ilodev.stationeers.stationeersmodsexporter",
+  "version": "1.0.32",
+  "displayName": "StationeersMods Exporter",
+  "description": "A Unity Editor-only package to create/export StationeersMods mods.",
+  "unity": "2021.3",
+  "keywords": [
+    "editor",
+    "tools"
+  ],
+  "author": {
+    "name": "Inaki"
+  }
+}
